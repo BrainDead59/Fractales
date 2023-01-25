@@ -1,5 +1,5 @@
 <h1>Fractales</h1>
-Este proyecto consiste en el desarrollo de distintos fractales mediante el uso de hilos de forma paralela, con diferentes combinaciones de color, usando el lenguaje Java y el editor Sublime Text, la documentación esta en JavaDoc. 
+Este proyecto consiste en el desarrollo de distintos fractales mediante el uso de hilos de forma paralela, con diferentes combinaciones de color, usando el lenguaje Java con el paradigma POO y el editor Sublime Text, la documentación esta en JavaDoc
 
 <h2>Fractales implementados</h2>
 <ul>
